@@ -1,0 +1,29 @@
+Enter filename: 
+Number of words processed: 36
+26 most common words found and their frequencies:
+                      i - 3
+                     is - 3
+                   love - 3
+                     an - 2
+                 apples - 2
+                  great - 2
+                 orange - 2
+                      a - 1
+                   also - 1
+                 always - 1
+                    and - 1
+                  apple - 1
+            apple-juice - 1
+                     as - 1
+                   away - 1
+                    day - 1
+                 doctor - 1
+                  fresh - 1
+                   from - 1
+                  juice - 1
+                  keeps - 1
+                   made - 1
+                peaches - 1
+                    say - 1
+                    the - 1
+                   they - 1
